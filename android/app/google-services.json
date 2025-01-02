@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "528484579983",
+    "project_id": "social-app-b33bd",
+    "storage_bucket": "social-app-b33bd.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:528484579983:android:f875450d9d751cf5644efa",
+        "android_client_info": {
+          "package_name": "ma.omerta.mycommunity"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBUF3Z6giMUl-3vATreh5odudyBvPAgQkM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
