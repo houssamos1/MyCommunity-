@@ -100,12 +100,14 @@ flutter run
 # Future Enhancements
 
 * Adding support for private chats.
-* 
+
 * Implementing push notifications for new posts.
-* 
+
 * Enhancing the UI with dark mode support.
 
 # **Contact :**
 
-For any inquiries or collaboration opportunities, feel free to reach out at Houssam.ettakifi95@gmail.com or on Linkedin https://www.linkedin.com/in/houssam-ettakifi-b031591ab/ .
+For any inquiries or collaboration opportunities, feel free to reach out at
+email :Houssam.ettakifi@hotmail.fr 
+Linkedin :https://www.linkedin.com/in/houssam-ettakifi-b031591ab/ .
 
