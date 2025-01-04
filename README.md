@@ -2,7 +2,7 @@
 
 ## **Author:** Houssam Ettakifi
 
-## **Email:**Houssam.ettakifi95@gmail.com
+## **Email:** Houssam.ettakifi95@gmail.com
 
 # **Overview**
 
@@ -15,20 +15,21 @@ The app leverages Firebase for real-time database interactions and user authenti
 1. User Authentication:
 
 * Sign up and login functionality using Firebase Authentication.
-* 
+
 * Secure storage and management of user credentials.
 
 2. Real-Time Messaging:
 
 * Post messages to a shared wall visible to all friends.
-* 
+
 * Messages are stored in Firebase Firestore for real-time updates.
 
 3. User-Friendly Interface:
 
 * Intuitive design with smooth navigation.
-* 
+
 * Customized UI using Flutter components.
+
 4. Dark Mode Support:
 
 * Toggle between light and dark themes for better user experience.
@@ -58,7 +59,7 @@ The app leverages Firebase for real-time database interactions and user authenti
 **Backend:** Firebase
 
 * Firebase Authentication
-* 
+
 * Firebase Firestore (Real-Time Database)
 
 # **Installation Guide**
@@ -90,13 +91,12 @@ Ensure Firebase Authentication and Firestore are enabled in your Firebase Consol
 flutter run
 
 # **Screenshots**
-
-![Drawer.jpg](..%2FDesktop%2Fflutter%20Project%2FDrawer.jpg)
-![Login.jpg](..%2FDesktop%2Fflutter%20Project%2FLogin.jpg)
-![Profile.jpg](..%2FDesktop%2FNouveau%20dossier%2FProfile.jpg)
-![Registration.jpg](..%2FDesktop%2FNouveau%20dossier%2FRegistration.jpg)
-![Users.jpg](..%2FDesktop%2FNouveau%20dossier%2FUsers.jpg)
-![WALL.jpg](..%2FDesktop%2FNouveau%20dossier%2FWALL.jpg)
+![Login.jpg](Nouveau%20dossier%2FLogin.jpg)
+![Profile.jpg](Nouveau%20dossier%2FProfile.jpg)
+![Registration.jpg](Nouveau%20dossier%2FRegistration.jpg)
+![Users.jpg](Nouveau%20dossier%2FUsers.jpg)
+![Drawer.jpg](Nouveau%20dossier%2FDrawer.jpg)
+![WALL.jpg](Nouveau%20dossier%2FWALL.jpg)
 # Future Enhancements
 
 * Adding support for private chats.
