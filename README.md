@@ -107,7 +107,9 @@ flutter run
 
 # **Contact :**
 
-For any inquiries or collaboration opportunities, feel free to reach out at
+For any inquiries or collaboration opportunities, feel free to reach out at :
+
 email :Houssam.ettakifi@hotmail.fr 
+
 Linkedin :https://www.linkedin.com/in/houssam-ettakifi-b031591ab/ .
 
