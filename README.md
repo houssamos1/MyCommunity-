@@ -91,19 +91,23 @@ Ensure Firebase Authentication and Firestore are enabled in your Firebase Consol
 flutter run
 
 # **Screenshots**
-![Login.jpg]
-![Profile.jpg]
-![Registration.jpg]
-![Users.jpg]
-![Drawer.jpg]
-![WALL.jpg]
 
-![Login-darkMode.jpg]
-![Profile-darkMode.jpg]
-![Registration-darkMode.jpg]
-![Users-darkMode.jpg]
-![Drawer-darkMode.jpg]
-![WALL-darkMode.jpg]
+
+![Login.jpg](Nouveau%20dossier%2FLogin.jpg)
+![Profile.jpg](Nouveau%20dossier%2FProfile.jpg)
+![Registration.jpg](Nouveau%20dossier%2FRegistration.jpg)
+![Users.jpg](Nouveau%20dossier%2FUsers.jpg)
+![Drawer.jpg](Nouveau%20dossier%2FDrawer.jpg)
+![WALL.jpg](Nouveau%20dossier%2FWALL.jpg)
+
+![Login-darkMode.jpg](Nouveau%20dossier%2FLogin-darkMode.jpg)
+![Profile-darkMode.jpg](Nouveau%20dossier%2FProfile-darkMode.jpg)
+![Registration-darkMode.jpg](Nouveau%20dossier%2FRegistration-darkMode.jpg)
+![Users-darkMode.jpg](Nouveau%20dossier%2FUsers-darkMode.jpg)
+![Drawer-darkMode.jpg](Nouveau%20dossier%2FDrawer-darkMode.jpg)
+![WALL-darkMode.jpg](Nouveau%20dossier%2FWALL-darkMode.jpg)
+
+
 # Future Enhancements
 
 * Adding support for private chats.
