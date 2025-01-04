@@ -40,7 +40,7 @@ The app leverages Firebase for real-time database interactions and user authenti
 
 * Follow/unfollow functionality for connecting with others.
 
-6.Settings Page:
+6. Settings Page:
 
 * Manage user preferences, such as notifications and theme settings.
 
