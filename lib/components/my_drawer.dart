@@ -11,7 +11,7 @@ class MyDrawer extends StatelessWidget {
   @override
   Widget build(BuildContext context) {
     return Drawer(
-      backgroundColor: Theme.of(context).colorScheme.background,
+      backgroundColor: Theme.of(context).colorScheme.surface,
       child: Column(
         children: [
           // Drawer header
@@ -75,7 +75,7 @@ class MyDrawer extends StatelessWidget {
             text: "Logout",
             onTap: () {
               Navigator.pop(context);
-
+              Navigator.pushNamed(context, '/login_register_page');
               logout();
             },
           ),
